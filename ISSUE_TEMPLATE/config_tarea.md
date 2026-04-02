@@ -1,3 +1,9 @@
+---
+name: Nueva Tarea de Desarrollo
+about: Mi plantilla global profesional con Criterios de Aceptación.
+title: 'feat: '
+---
+
 #### 📝 Descripción 
 <!-- Describe aquí qué vas a hacer -->
 **Como:** 
