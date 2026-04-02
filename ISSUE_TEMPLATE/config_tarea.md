@@ -27,6 +27,7 @@ title: 'feat: '
 #### 📊 Metadatos de Desarrollo
 
 
+
 | Atributo | Valor |
 | :--- | :--- |
 | **Esfuerzo** | [1-10]: 6 (Investigación técnica) |
